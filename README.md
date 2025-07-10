@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/quintonwall-mcp-airbyte-list-sources-badge.png)](https://mseep.ai/app/quintonwall-mcp-airbyte-list-sources)
+
 # Introduction
 
 This is a sample app that conforms to the MCP protocol from Anthropic. It is designed to run as a an MCP server in Claude Desktop and
